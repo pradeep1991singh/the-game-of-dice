@@ -4,7 +4,7 @@
 - It Builds Players table
 - Generate random Playing order
 - Expose `play` method to play the game
-- Handle `6` and `consecute 1s`
+- Handle `6` point and `consecute 1s` point
 - Print Players table on each dice roll
 - Print Next player name
 - Print points achieved by each player after their turn
